@@ -1,0 +1,22 @@
+
+:root{
+    --color-primario:#ffffff;
+    --color-segundario:#696E79;
+    --color-terciario:#01C38D;
+    --color-cuartario:#132D46;
+    --color-quintario:#191E29;
+
+}
+#cont-principal{
+    width: 100%;
+    max-width: 0 auto;
+    min-height: 0 auto;
+    margin:  0 auto;
+    background: url() var(--color-cuartario);
+    text-align: center;
+}
+.dropdown-menu{
+    background: #132D46;
+    
+
+}
